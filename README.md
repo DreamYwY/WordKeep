@@ -1,1 +1,1 @@
-WordKeep - для лёгкого изучения языка
+WordKeep - for easy language learning
